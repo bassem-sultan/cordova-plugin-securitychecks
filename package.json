@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-securitychecks",
+  "version": "1.0.0",
+  "description": "Basic security checks for Cordova apps (debug/emulator)",
+  "cordova": {
+    "id": "cordova-plugin-securitychecks",
+    "platforms": ["android", "ios"]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/app-sultan/cordova-plugin-securitychecks.git"
+  },
+  "keywords": [
+    "cordova",
+    "cordova-android",
+    "cordova-ios",
+    "security"
+  ],
+  "author": "app Saied Sultan",
+  "license": "Apache-2.0"
+}
